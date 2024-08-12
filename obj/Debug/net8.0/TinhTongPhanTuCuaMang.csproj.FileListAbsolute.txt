@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Module1\ThucHanh\TinhTongPhanTuCuaMang\bin\Debug\net8.0\TinhTongPhanTuCuaMang.exe
+C:\Users\pc\Desktop\Module1\ThucHanh\TinhTongPhanTuCuaMang\bin\Debug\net8.0\TinhTongPhanTuCuaMang.deps.json
+C:\Users\pc\Desktop\Module1\ThucHanh\TinhTongPhanTuCuaMang\bin\Debug\net8.0\TinhTongPhanTuCuaMang.runtimeconfig.json
+C:\Users\pc\Desktop\Module1\ThucHanh\TinhTongPhanTuCuaMang\bin\Debug\net8.0\TinhTongPhanTuCuaMang.dll
+C:\Users\pc\Desktop\Module1\ThucHanh\TinhTongPhanTuCuaMang\bin\Debug\net8.0\TinhTongPhanTuCuaMang.pdb
+C:\Users\pc\Desktop\Module1\ThucHanh\TinhTongPhanTuCuaMang\obj\Debug\net8.0\TinhTongPhanTuCuaMang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Module1\ThucHanh\TinhTongPhanTuCuaMang\obj\Debug\net8.0\TinhTongPhanTuCuaMang.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Module1\ThucHanh\TinhTongPhanTuCuaMang\obj\Debug\net8.0\TinhTongPhanTuCuaMang.AssemblyInfo.cs
+C:\Users\pc\Desktop\Module1\ThucHanh\TinhTongPhanTuCuaMang\obj\Debug\net8.0\TinhTongPhanTuCuaMang.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Module1\ThucHanh\TinhTongPhanTuCuaMang\obj\Debug\net8.0\TinhTongPhanTuCuaMang.sourcelink.json
+C:\Users\pc\Desktop\Module1\ThucHanh\TinhTongPhanTuCuaMang\obj\Debug\net8.0\TinhTongPhanTuCuaMang.dll
+C:\Users\pc\Desktop\Module1\ThucHanh\TinhTongPhanTuCuaMang\obj\Debug\net8.0\refint\TinhTongPhanTuCuaMang.dll
+C:\Users\pc\Desktop\Module1\ThucHanh\TinhTongPhanTuCuaMang\obj\Debug\net8.0\TinhTongPhanTuCuaMang.pdb
+C:\Users\pc\Desktop\Module1\ThucHanh\TinhTongPhanTuCuaMang\obj\Debug\net8.0\TinhTongPhanTuCuaMang.genruntimeconfig.cache
+C:\Users\pc\Desktop\Module1\ThucHanh\TinhTongPhanTuCuaMang\obj\Debug\net8.0\ref\TinhTongPhanTuCuaMang.dll
